@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 1000px;
+    overflow-x: hidden;
+}
+.colorb{
+    color: red;
+   
+}
+.active{
+    color: red;
+}
+.pool{
+    background-image: url(pool.webp);
+    background-position: center center;
+    background-size: cover;
+    height: 450px;
+
+}
+.hero{
+    background-color: rgb(14, 12, 12);
+    border-left: 5px solid rgb(233, 81, 81);
+
+    width: 90%;
+    height: 250px;
+
+    
+    
+}
+.up{
+    padding-top: 100px;
+}
+.indoor{
+    background-image: url(indoor.jpg);
+    background-position: center center;
+    background-size: cover;
+    /* height: 500px; */
+    /* margin-top:200px ; */
+}
+
+
+.end{
+    /* background-color: rgb(14, 12, 12); */
+    border-bottom: 5px solid rgb(233, 81, 81);
+}
+/* @media screen and(max-width:300px) {
+    .bed{
+        width: 100%;
+    }
+    
+} */
+/* @media screen and(min-width:300px) {
+    .bed{
+        width: 100%;
+    }
+    
+} */
+
+
+
+
+
